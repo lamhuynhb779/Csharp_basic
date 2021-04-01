@@ -1,0 +1,13 @@
+/home/hayashi/my-data/c#/Math/obj/Debug/netcoreapp3.1/Math.csprojAssemblyReference.cache
+/home/hayashi/my-data/c#/Math/obj/Debug/netcoreapp3.1/Math.AssemblyInfoInputs.cache
+/home/hayashi/my-data/c#/Math/obj/Debug/netcoreapp3.1/Math.AssemblyInfo.cs
+/home/hayashi/my-data/c#/Math/obj/Debug/netcoreapp3.1/Math.csproj.CoreCompileInputs.cache
+/home/hayashi/my-data/c#/Math/bin/Debug/netcoreapp3.1/Math
+/home/hayashi/my-data/c#/Math/bin/Debug/netcoreapp3.1/Math.deps.json
+/home/hayashi/my-data/c#/Math/bin/Debug/netcoreapp3.1/Math.runtimeconfig.json
+/home/hayashi/my-data/c#/Math/bin/Debug/netcoreapp3.1/Math.runtimeconfig.dev.json
+/home/hayashi/my-data/c#/Math/bin/Debug/netcoreapp3.1/Math.dll
+/home/hayashi/my-data/c#/Math/bin/Debug/netcoreapp3.1/Math.pdb
+/home/hayashi/my-data/c#/Math/obj/Debug/netcoreapp3.1/Math.dll
+/home/hayashi/my-data/c#/Math/obj/Debug/netcoreapp3.1/Math.pdb
+/home/hayashi/my-data/c#/Math/obj/Debug/netcoreapp3.1/Math.genruntimeconfig.cache

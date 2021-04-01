@@ -1,0 +1,13 @@
+/home/hayashi/my-data/c#/Enum/bin/Debug/netcoreapp3.1/Enum
+/home/hayashi/my-data/c#/Enum/bin/Debug/netcoreapp3.1/Enum.deps.json
+/home/hayashi/my-data/c#/Enum/bin/Debug/netcoreapp3.1/Enum.runtimeconfig.json
+/home/hayashi/my-data/c#/Enum/bin/Debug/netcoreapp3.1/Enum.runtimeconfig.dev.json
+/home/hayashi/my-data/c#/Enum/bin/Debug/netcoreapp3.1/Enum.dll
+/home/hayashi/my-data/c#/Enum/bin/Debug/netcoreapp3.1/Enum.pdb
+/home/hayashi/my-data/c#/Enum/obj/Debug/netcoreapp3.1/Enum.csprojAssemblyReference.cache
+/home/hayashi/my-data/c#/Enum/obj/Debug/netcoreapp3.1/Enum.AssemblyInfoInputs.cache
+/home/hayashi/my-data/c#/Enum/obj/Debug/netcoreapp3.1/Enum.AssemblyInfo.cs
+/home/hayashi/my-data/c#/Enum/obj/Debug/netcoreapp3.1/Enum.csproj.CoreCompileInputs.cache
+/home/hayashi/my-data/c#/Enum/obj/Debug/netcoreapp3.1/Enum.dll
+/home/hayashi/my-data/c#/Enum/obj/Debug/netcoreapp3.1/Enum.pdb
+/home/hayashi/my-data/c#/Enum/obj/Debug/netcoreapp3.1/Enum.genruntimeconfig.cache

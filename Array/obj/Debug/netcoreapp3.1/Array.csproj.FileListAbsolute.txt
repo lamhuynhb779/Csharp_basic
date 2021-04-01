@@ -1,0 +1,13 @@
+/home/hayashi/my-data/c#/Array/obj/Debug/netcoreapp3.1/Array.csprojAssemblyReference.cache
+/home/hayashi/my-data/c#/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfoInputs.cache
+/home/hayashi/my-data/c#/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfo.cs
+/home/hayashi/my-data/c#/Array/obj/Debug/netcoreapp3.1/Array.csproj.CoreCompileInputs.cache
+/home/hayashi/my-data/c#/Array/bin/Debug/netcoreapp3.1/Array
+/home/hayashi/my-data/c#/Array/bin/Debug/netcoreapp3.1/Array.deps.json
+/home/hayashi/my-data/c#/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.json
+/home/hayashi/my-data/c#/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.dev.json
+/home/hayashi/my-data/c#/Array/bin/Debug/netcoreapp3.1/Array.dll
+/home/hayashi/my-data/c#/Array/bin/Debug/netcoreapp3.1/Array.pdb
+/home/hayashi/my-data/c#/Array/obj/Debug/netcoreapp3.1/Array.dll
+/home/hayashi/my-data/c#/Array/obj/Debug/netcoreapp3.1/Array.pdb
+/home/hayashi/my-data/c#/Array/obj/Debug/netcoreapp3.1/Array.genruntimeconfig.cache
