@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hayashi/my-data/c#/File/File.csproj": {}
+    "/home/hayashi/my-data/c#/basic/File/File.csproj": {}
   },
   "projects": {
-    "/home/hayashi/my-data/c#/File/File.csproj": {
+    "/home/hayashi/my-data/c#/basic/File/File.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hayashi/my-data/c#/File/File.csproj",
+        "projectUniqueName": "/home/hayashi/my-data/c#/basic/File/File.csproj",
         "projectName": "File",
-        "projectPath": "/home/hayashi/my-data/c#/File/File.csproj",
+        "projectPath": "/home/hayashi/my-data/c#/basic/File/File.csproj",
         "packagesPath": "/home/hayashi/.nuget/packages/",
-        "outputPath": "/home/hayashi/my-data/c#/File/obj/",
+        "outputPath": "/home/hayashi/my-data/c#/basic/File/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hayashi/.nuget/NuGet/NuGet.Config"
