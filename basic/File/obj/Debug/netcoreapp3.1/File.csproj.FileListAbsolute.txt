@@ -24,3 +24,16 @@
 /home/hayashi/my-data/c#/basic/File/obj/Debug/netcoreapp3.1/File.dll
 /home/hayashi/my-data/c#/basic/File/obj/Debug/netcoreapp3.1/File.pdb
 /home/hayashi/my-data/c#/basic/File/obj/Debug/netcoreapp3.1/File.genruntimeconfig.cache
+E:\c#\basic\File\bin\Debug\netcoreapp3.1\File.exe
+E:\c#\basic\File\bin\Debug\netcoreapp3.1\File.deps.json
+E:\c#\basic\File\bin\Debug\netcoreapp3.1\File.runtimeconfig.json
+E:\c#\basic\File\bin\Debug\netcoreapp3.1\File.runtimeconfig.dev.json
+E:\c#\basic\File\bin\Debug\netcoreapp3.1\File.dll
+E:\c#\basic\File\bin\Debug\netcoreapp3.1\File.pdb
+E:\c#\basic\File\obj\Debug\netcoreapp3.1\File.csprojAssemblyReference.cache
+E:\c#\basic\File\obj\Debug\netcoreapp3.1\File.AssemblyInfoInputs.cache
+E:\c#\basic\File\obj\Debug\netcoreapp3.1\File.AssemblyInfo.cs
+E:\c#\basic\File\obj\Debug\netcoreapp3.1\File.csproj.CoreCompileInputs.cache
+E:\c#\basic\File\obj\Debug\netcoreapp3.1\File.dll
+E:\c#\basic\File\obj\Debug\netcoreapp3.1\File.pdb
+E:\c#\basic\File\obj\Debug\netcoreapp3.1\File.genruntimeconfig.cache
